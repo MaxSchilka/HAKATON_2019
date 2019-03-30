@@ -97,6 +97,8 @@ body {
 .aboutProduct .aboutProductImg {
   background: #445161;
   min-height: 245px;
+  height: 245px;
+  width: auto;
 }
 @media all and (min-width: 768px) and (max-width: 991px) {
   .aboutProduct .aboutProductImg {
